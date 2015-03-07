@@ -1,0 +1,180 @@
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\bin\Debug\Inventory System.xml
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.exe
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.xml
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.pdb
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.exe
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.xml
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.pdb
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\bin\Debug\Inventory System.xml
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.vbproj.GenerateResource.Cache
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+C:\Users\sheila\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+C:\Users\kemjohn mantos\Documents\Visual Studio 2010\Projects\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.exe
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.xml
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.pdb
+D:\Inventory System Solution\Inventory System\bin\Debug\Inventory System.exe
+D:\Inventory System Solution\Inventory System\bin\Debug\Inventory System.pdb
+D:\Inventory System Solution\Inventory System\bin\Debug\Inventory System.xml
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.vbproj.GenerateResource.Cache
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.exe
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.xml
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.pdb
+F:\Inventory System Solution\Inventory System\bin\Debug\Inventory System.exe
+F:\Inventory System Solution\Inventory System\bin\Debug\Inventory System.pdb
+F:\Inventory System Solution\Inventory System\bin\Debug\Inventory System.xml
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form7.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form8.resources
+F:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form9.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form7.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form8.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form9.resources
+D:\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form10.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.xml
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.pdb
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\bin\Debug\Inventory System.xml
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form10.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form7.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form8.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form9.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.vbproj.GenerateResource.Cache
+C:\Users\sheila\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.exe
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.exe
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.xml
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.pdb
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\bin\Debug\Inventory System.xml
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form10.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form7.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form8.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Form9.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+C:\Users\kvein\Desktop\Inventory System Solution\Inventory System\obj\x86\Debug\Inventory System.vbproj.GenerateResource.Cache
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.exe
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.xml
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.pdb
+F:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.exe
+F:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.pdb
+F:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.xml
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form10.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form7.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form8.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form9.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.exe
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.xml
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.pdb
+D:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.exe
+D:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.pdb
+D:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.xml
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form10.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form7.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form8.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form9.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+D:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.vbproj.GenerateResource.Cache
+E:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.exe
+E:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.xml
+E:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.pdb
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.exe
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.xml
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.pdb
+G:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.exe
+G:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.pdb
+G:\Inventory System Solution embate\Inventory System\bin\Debug\Inventory System.xml
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form1.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form10.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form2.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form3.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form4.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form5.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form6.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form7.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form8.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Form9.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.Resources.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen1.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory_System.SplashScreen2.resources
+G:\Inventory System Solution embate\Inventory System\obj\x86\Debug\Inventory System.vbproj.GenerateResource.Cache
+G:\Inventory System Solution embate\Inventory System\bin\Debug\Accounts.mdb
+F:\Inventory System Solution embate\Inventory System\bin\Debug\Accounts.mdb
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Inventory System Solution embate\Inventory System\obj\x86\Debug\GenerateResource.write.1.tlog
